@@ -19,6 +19,7 @@ This is a free scoreboard library, without flicker.
 
 **Usage:**
 Step 1: Create your scoreboard:
+
 ```EasyScoreboard scoreboard = EasyScoreboardLib.createScoreboard(player, "§cTest Scoreboard");```
 
 Step 2: Add lines:
@@ -40,4 +41,5 @@ scoreboard.setLineText(-2, "  §e§oplay.yourserver.com");
 ```
 
 Step 3: Don't forget to enable the scoreboard!
+
 ```scoreboard.enable();```
