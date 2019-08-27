@@ -21,7 +21,7 @@ public class EasyScoreboardLib extends JavaPlugin {
 
     public static EasyScoreboard createScoreboard(Player player, Line line) {
         if(instance == null) {
-            throw new IllegalArgumentException("The library has not been initialized. Use 'EasyScoreboardLib.initialize(JavaPlugin instance)' to initialize the library.");
+            throw new IllegalArgumentException("The library has not been initialized.");
         }
         return new EasyScoreboard(player, line);
     }
