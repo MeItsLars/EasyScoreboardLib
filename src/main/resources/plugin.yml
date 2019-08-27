@@ -1,0 +1,5 @@
+name: EasyScoreboardLib
+version: 1.0
+main: nl.itslars.scoreboardlib.EasyScoreboardLib
+description: Library for easily creating user scoreboards.
+author: ItsLars
