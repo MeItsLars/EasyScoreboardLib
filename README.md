@@ -14,5 +14,5 @@ Features:
 Installation:
 1) Download EasyScoreboardLib.jar from the spigot page: https://www.spigotmc.org/resources/easyscoreboardlib.70806/
 2) Import it into your project, and add it to 'depend' in your 'plugin.yml':
-    depend: [EasyScoreboardLib]
+    ```depend: [EasyScoreboardLib]```
 3) You are ready to use it!
