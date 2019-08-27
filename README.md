@@ -45,6 +45,7 @@ Step 3: Don't forget to enable the scoreboard!
 ```scoreboard.enable();```
 
 **Animations**
+
 In the scoreboard, you can add animations. You can also create your own animations!
 
 Adding animations:
